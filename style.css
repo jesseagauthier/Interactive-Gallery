@@ -56,14 +56,22 @@ body {
 .lrgimg #imgcontents {
     display: flex;
     flex-direction: column;
-    gap: 35px;
-    max-width: 40vw;
-    height: fit-content;
+    max-width: 60vw;
+    max-height: 90vh;
     margin: 5vh auto;
     background-color: white;
-    padding: 2em 3em;
     font-size: 1.7em;
     letter-spacing:5px;
     border-radius: 10px;
+}
 
+.lrgimg #imgcontents h2 {
+    align-self: center;
+    margin: 1em 0;
+}
+
+.lrgimg #imgcontents #largeImage {
+    max-height: 80vh;
+
+    border-radius: 0 0 10px 10px;
 }

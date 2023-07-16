@@ -1,86 +1,86 @@
 const images = [
     {
-        disc: "PlaceHolder",
+        disc: "Kingston, Ontario",
         sm: "images/sm/sum__(1).jpg",
         lrg: "images/lrg/lrg__(1).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Dublin, Ireland",
         sm: "images/sm/sum__(2).jpg",
         lrg: "images/lrg/lrg__(2).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Dublin, Ireland",
         sm: "images/sm/sum__(3).jpg",
         lrg: "images/lrg/lrg__(3).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Dublin, Ireland",
         sm: "images/sm/sum__(4).jpg",
         lrg: "images/lrg/lrg__(4).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Amsterdam, Netherlands",
         sm: "images/sm/sum__(5).jpg",
         lrg: "images/lrg/lrg__(5).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Ottawa, Ontario",
         sm: "images/sm/sum__(6).jpg",
         lrg: "images/lrg/lrg__(6).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Ottawa, Ontario",
         sm: "images/sm/sum__(7).jpg",
         lrg: "images/lrg/lrg__(7).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Ottawa, Ontario",
         sm: "images/sm/sum__(8).jpg",
         lrg: "images/lrg/lrg__(8).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Ottawa, Ontario",
         sm: "images/sm/sum__(9).jpg",
         lrg: "images/lrg/lrg__(9).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Ottawa, Ontario",
         sm: "images/sm/sum__(10).jpg",
         lrg: "images/lrg/lrg__(10).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Ottawa, Ontario",
         sm: "images/sm/sum__(11).jpg",
         lrg: "images/lrg/lrg__(11).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Las Vegas, Nevada",
         sm: "images/sm/sum__(12).jpg",
         lrg: "images/lrg/lrg__(12).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Las Vegas, Nevada",
         sm: "images/sm/sum__(13).jpg",
         lrg: "images/lrg/lrg__(13).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Ottawa, Ontario",
         sm: "images/sm/sum__(14).jpg",
         lrg: "images/lrg/lrg__(14).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Kingston, Ontario",
         sm: "images/sm/sum__(15).jpg",
         lrg: "images/lrg/lrg__(15).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Lisbon, Portugal",
         sm: "images/sm/sum__(16).jpg",
         lrg: "images/lrg/lrg__(16).jpg"
     },
     {
-        disc: "PlaceHolder",
+        disc: "Lisbon, Portugal",
         sm: "images/sm/sum__(17).jpg",
         lrg: "images/lrg/lrg__(17).jpg"
     },
