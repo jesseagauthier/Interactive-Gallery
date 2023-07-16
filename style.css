@@ -7,6 +7,18 @@ body {
     max-width: 80vw;
     margin: 0 auto;
 }
+.author {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    text-transform: capitalize;
+    font-size: 2.5em;
+}
+
+.author span {
+    font-size: 0.5em;
+}
+
 
 #interactiveGallery {
     margin-top: 30px;
@@ -20,7 +32,7 @@ body {
     flex: 1 50vw;
     position: relative;
     border-radius: 10px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0 6px 12px -2px, rgba(0, 0, 0, 0.3) 0 3px 7px -3px;
 
 }
 
@@ -63,6 +75,7 @@ body {
     font-size: 1.7em;
     letter-spacing:5px;
     border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0 6px 12px -2px, rgba(0, 0, 0, 0.3) 0 3px 7px -3px;
 }
 
 .lrgimg #imgcontents h2 {
@@ -72,6 +85,5 @@ body {
 
 .lrgimg #imgcontents #largeImage {
     max-height: 80vh;
-
     border-radius: 0 0 10px 10px;
 }
