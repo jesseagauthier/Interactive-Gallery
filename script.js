@@ -106,7 +106,7 @@ const imgcontents = document.getElementById("imgcontents");
 for (const image of images) {
     const imageCard = ` 
     <div class="imagecard">
-        <img class="imagesm" src="${image.sm}" alt="${image.disc}" title="${image.disc}" data-lrgimg="${image.lrg}">
+        <img class="imagesm" src="${image.sm}" alt="${image.disc}" title="${image.disc}" data-lrgimg="${image.lrg}" loading="lazy">
     </div>`;
     interactiveGallery.insertAdjacentHTML("beforeend", imageCard);
 }
